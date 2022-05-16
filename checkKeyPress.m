@@ -5,7 +5,7 @@ exitDemo = false;
 while exitDemo == false
 
     % Check the keyboard to see if a button has been pressed
-    [keyIsDown,secs, keyCode] = KbCheck;
+    [keyIsDown,secs,keyCode] = KbCheck;
 
     % Depending on the button press
     if keyCode(hitKey)
