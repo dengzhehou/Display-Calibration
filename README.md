@@ -8,3 +8,4 @@
 - CalibrateMonitorPhotometer: official program to calibrate monitor photometer.
 
 ## CH (Tseng)
+- some analysis from Tseng-sensei
